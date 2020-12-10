@@ -1,0 +1,50 @@
+{
+    {
+    "identificacionAlumno": "aah30",
+    "tiempo": 0,
+    "paginas": 0,
+    "calificacion":0.0,
+    "semana":"Semana 1",
+    "prueba":1
+},
+{
+    "identificacionAlumno": "acg63",
+    "tiempo": 1898,
+    "paginas": 30,
+    "calificacion":5.9,
+    "semana":"Semana 1",
+    "prueba":1
+},
+{
+    "identificacionAlumno": "acm10",
+    "tiempo": 0,
+    "paginas": 0,
+    "calificacion":0.0,
+    "semana":"Semana 1",
+    "prueba":1
+},
+{
+    "identificacionAlumno": "adf73",
+    "tiempo": 180,
+    "paginas": 31,
+    "calificacion":2.7,
+    "semana":"Semana 1",
+    "prueba":1
+},
+{
+    "identificacionAlumno": "adf60",
+    "tiempo": 0,
+    "paginas": 0,
+    "calificacion":0.0,
+    "semana":"Semana 1",
+    "prueba":1
+},
+{
+    "identificacionAlumno": "agr29",
+    "tiempo": 0,
+    "paginas": 0,
+    "calificacion":0.0,
+    "semana":"Semana 1",
+    "prueba":1
+}
+}

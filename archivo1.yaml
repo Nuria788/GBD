@@ -1,0 +1,18 @@
+#esto es un comentario
+#Fichero Json equivalente
+#{
+  #"nombre":"Nuria",
+   # "apellido": "Mendo",
+   # "edad": "40",
+    #"mayorDeEdad": true,
+    "#telefonos": [
+      #  "666666666",
+       # "654656765"
+    
+    ]
+}
+nombre: Nuria
+apellido: Mendo
+nick: yo
+edad: 40
+mayordeedad: True
